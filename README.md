@@ -1,2 +1,0 @@
-# ForceBrute
-Algo force brute
